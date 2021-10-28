@@ -1,5 +1,5 @@
 # exploringTwitterApi
-Program that change twitter screen name based on the last mention.
+Script that change twitter screen name based on the last mention.
 
 This program was built using JavaScript, twitter API, Twit (https://github.com/ttezel/twit) and deployed on heroku server.
 
